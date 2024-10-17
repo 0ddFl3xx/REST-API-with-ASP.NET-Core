@@ -1,0 +1,7 @@
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.csproj.AssemblyReference.cache
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.AssemblyInfoInputs.cache
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.AssemblyInfo.cs
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.csproj.CoreCompileInputs.cache
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Thuli\Documents\Code Projects\C-Sharp\REST API\ProductAPI\obj\Debug\net8.0\ProductAPI.MvcApplicationPartsAssemblyInfo.cache
